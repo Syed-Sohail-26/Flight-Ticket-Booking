@@ -1,0 +1,4 @@
+Source: Bangalore
+Destination: Kolkata
+Business: {3, 4, 2, 15}
+Economy: {5, 6, 3, 25}
